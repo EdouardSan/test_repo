@@ -5,7 +5,7 @@
 ici on tape globalement des choses qui ne seront pas sur la branch main
 
 
-##test trucs bizarre
+##test trucs bizarres sans fautes d'orthographe
 
 ```bash
 là on écrit des trucs
